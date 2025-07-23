@@ -1,12 +1,40 @@
-# React + Vite
+# ✅ To-Do App | React + Vite Productivity Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimalist and responsive To-Do application built with **React + Vite**, designed to help users track tasks, complete goals, and boost productivity. Each task can be added, marked as complete, and filtered based on status.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** [https://todo-tasked.netlify.app](https://todo-tasked.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧠 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ➕ Add tasks with a clean input interface
+- ✅ Mark tasks as complete or remove them
+- 🔍 Filter tasks: All / Active / Completed
+- 💾 Persistent state with localStorage (optional enhancement)
+- 🎯 Clean UX with snappy transitions
+
+---
+
+## 🧱 Tech Stack
+
+| Tech        | Role                         |
+|-------------|------------------------------|
+| React       | UI rendering & state logic   |
+| Vite        | Fast bundling & HMR dev      |
+| CSS         | Custom styles and layout     |
+
+---
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/harshit7217/ToDO.git
+cd ToDO
+npm install
+npm run dev
+
+
+Want me to whip up some tweet copy to announce this app or brainstorm a playful name like *Taskerly* or *DoneZone*? I’m all in! 😄📋
